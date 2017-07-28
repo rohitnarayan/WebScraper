@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "*",
+    "fs": "0.0.1-security",
+    "request": "*"
+  },
+  "author":"Rohit Jaiswal"
+}
